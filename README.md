@@ -22,7 +22,6 @@ Hi there! I'm a passionate **Full Stack Web Developer** and **Blockchain Enthusi
 - **Front-end Frameworks:**
   [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
   [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
-  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
 - **Back-end:**
   ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
@@ -67,6 +66,7 @@ Hi there! I'm a passionate **Full Stack Web Developer** and **Blockchain Enthusi
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![Nginx](https://img.shields.io/badge/Nginx-269539?logo=nginx&logoColor=white)
+  [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 
 - 🌱 **Currently Exploring:**
   - Advanced **DeFi Protocols**
