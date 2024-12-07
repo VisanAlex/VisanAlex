@@ -31,7 +31,7 @@ Hi there! I'm a passionate **Full Stack Web Developer** and **Blockchain Enthusi
   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
   ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?logo=adonisjs&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?)
   ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -40,7 +40,7 @@ Hi there! I'm a passionate **Full Stack Web Developer** and **Blockchain Enthusi
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
-  ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+  ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?)
   [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 
 - **Version Control:**
