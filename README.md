@@ -25,8 +25,8 @@ Hi there! I'm a passionate **Full Stack Web Developer** and **Blockchain Enthusi
 
 ## 📈 My GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VisanAlex&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VisanAlex&layout=compact&theme=tokyonight)
 
 ## 📫 Get in Touch
 
