@@ -38,9 +38,10 @@ Senior developer with strong experience in legacy systems, greenfield projects, 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?logo=adonisjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![RapidAPI](https://img.shields.io/badge/RapidAPI-0055FF?logo=rapidapi&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
 
 ---
@@ -54,13 +55,9 @@ Senior developer with strong experience in legacy systems, greenfield projects, 
 
 ---
 
-### 🔗 Blockchain & APIs
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33)
+### 🔗 Blockchain
 ![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white)
-![RapidAPI](https://img.shields.io/badge/RapidAPI-0055FF?logo=rapidapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-FF6F00)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101)
 
 ---
 
